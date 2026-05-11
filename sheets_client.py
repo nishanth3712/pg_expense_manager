@@ -14,9 +14,9 @@ MONTHLY_HEADERS = ["Date", "Category", "Description", "Type", "Mode", "Amount"]
 EXPENSE_CATEGORIES = [
     "Maintenance",
     "Utilities",
-    "Property Tax",
-    "Insurance",
-    "Mortgage",
+    "Tax",
+    "Grocery",
+    "Salaries",
     "Misc"
 ]
 
